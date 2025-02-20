@@ -1,0 +1,2 @@
+C:\Users\ionel\Desktop\Pachet_Complet_AutoPatcher_Clean\Autopatcher_Sursa_Clean_By_Tallion\Autopatcher\Autopatcher\bin\Release\net8.0-windows\publish\win-x64\AutoPatcher.pdb
+C:\Users\ionel\Desktop\Pachet_Complet_AutoPatcher_Clean\Autopatcher_Sursa_Clean_By_Tallion\Autopatcher\Autopatcher\bin\Release\net8.0-windows\publish\win-x64\AutoPatcher.exe

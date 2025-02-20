@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "6va3zcO+uXQ=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ionel\\Desktop\\AutoPatcher_Clean_Complete_Package\\Autopatcher_Source_Clean_By_Tallion\\Autopatcher\\Autopatcher\\Autopatcher.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ionel\\.nuget\\packages\\sharpcompress\\0.38.0\\sharpcompress.0.38.0.nupkg.sha512",
+    "C:\\Users\\ionel\\.nuget\\packages\\zstdsharp.port\\0.8.1\\zstdsharp.port.0.8.1.nupkg.sha512"
+  ],
+  "logs": []
+}
