@@ -1,5 +1,3 @@
-//EN
-
 /*******************************************************************************************
  * System created by Tallion, 2025
  * 
@@ -63,8 +61,6 @@ public static string PatchServerURL = "http://patcher.storym2.ro/patch/";
 ✅ This is where client files, including patchlist.txt and encrypted files, are stored.
 
 //End of AutoPatcher Update
-
-
 
 ********************************************************************************************
 
