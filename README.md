@@ -2,7 +2,7 @@
  * System created by Tallion, 2025
  * 
  * Official website: https://devm2code.com/
- * Discord: talion0127
+ * Discord: tallion0127
  * Discord Channel: https://discord.gg/VZgzwacwFD
  * 
  * © Tallion 2025. All rights reserved.
